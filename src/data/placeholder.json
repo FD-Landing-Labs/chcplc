@@ -1,15 +1,15 @@
 {
   "site": {
-    "name": "Grandeur",
+    "name": "Ceylon Hotels Corporation PLC",
     "tagline": "Luxury Hotel & Resort",
-    "description": "Experience unparalleled luxury at Grandeur - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
+    "description": "Experience unparalleled luxury at Ceylon Hotels Corporation PLC - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
     "logo": {
       "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=GRANDEUR",
       "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
-      "alt": "Grandeur Luxury Hotel Logo"
+      "alt": "Ceylon Hotels Corporation PLC Luxury Hotel Logo"
     },
     "seo": {
-      "title": "Grandeur - 5-Star Luxury Hotel & Resort",
+      "title": "Ceylon Hotels Corporation PLC - 5-Star Luxury Hotel & Resort",
       "description": "Discover exceptional hospitality at Grandeur. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
       "keywords": [
         "luxury hotel",
@@ -34,7 +34,7 @@
     "logo": {
       "default": "/assets/images/logo.png",
       "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
-      "alt": "Grandeur Luxury Hotel Logo"
+      "alt": "Ceylon Hotels Corporation PLC Luxury Hotel Logo"
     },
     "barLinks": [
       {
@@ -101,7 +101,7 @@
       }
     ],
     "featured": {
-      "studioName": "Grandeur Hotel",
+      "studioName": "Ceylon Hotels Corporation PLC Hotel",
       "image": "https://placehold.co/600x800/1a1a1a/c9a962?text=Featured",
       "copyright": "2026 All rights reserved"
     },
@@ -189,7 +189,7 @@
     "places": [
       {
         "id": "bar",
-        "title": "The Grandeur Bar",
+        "title": "The Ceylon Hotels Corporation PLC Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings.",
         "image": "/assets/images/rooms/bar.png",
         "size": "200 m2",
@@ -240,12 +240,12 @@
     "rooms": [
       {
         "id": "bar",
-        "name": "The Grandeur Bar",
+        "name": "The Ceylon Hotels Corporation PLC Bar",
         "description": "The bar is the social heart of the hotel—a sophisticated space designed for craft cocktails, fine spirits, and elegant evenings with live jazz performances.",
         "image": "/assets/images/floor/bar.jpg",
         "details": {
           "rooms": "1",
-          "location": "Ground Floor, Grandeur Tower",
+          "location": "Ground Floor, Ceylon Hotels Corporation PLC Tower",
           "designer": "Studio Luxe Interiors",
           "available": "Premium Spirits, Craft Cocktails, Live Music, VIP Lounge",
           "size": "200 sqm"
@@ -271,7 +271,7 @@
         "image": "/assets/images/floor/premium.png",
         "details": {
           "rooms": "1",
-          "location": "Floors 5-10, Grandeur Tower",
+          "location": "Floors 5-10, Ceylon Hotels Corporation PLC Tower",
           "designer": "Studio Luxe Interiors",
           "available": "King Bed, City View, Rain Shower, Mini Bar",
           "size": "45 sqm"
@@ -341,7 +341,7 @@
   "cities": {
     "sectionLabel": "Locations",
     "headline": "Featured cities",
-    "description": "Experience the Grandeur difference across our collection of prestigious properties in the world's most coveted destinations.",
+    "description": "Experience the Ceylon Hotels Corporation PLC difference across our collection of prestigious properties in the world's most coveted destinations.",
     "locations": [
       {
         "id": "dubai",
@@ -398,7 +398,7 @@
         "id": "testimonial-1",
         "name": "Maria Thompson",
         "role": "Frequent Guest",
-        "quote": "Grandeur made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
+        "quote": "Ceylon Hotels Corporation PLC made our anniversary celebration incredibly special. Their attention to detail, responsiveness, and personalized service helped us create memories that will last forever.",
         "avatar": "/assets/images/avatar/1.jpg"
       },
       {
@@ -419,7 +419,7 @@
         "id": "testimonial-4",
         "name": "David Chen",
         "role": "Family Vacation",
-        "quote": "Traveling with kids can be challenging, but Grandeur made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
+        "quote": "Traveling with kids can be challenging, but Ceylon Hotels Corporation PLC made it effortless. The staff went above and beyond to ensure our whole family felt welcome.",
         "avatar": "/assets/images/avatar/4.jpg"
       }
     ]
@@ -553,6 +553,6 @@
         "icon": "instagram"
       }
     ],
-    "copyright": "2026 Grandeur Hotels & Resorts. All rights reserved."
+    "copyright": "2026 Ceylon Hotels Corporation PLC Hotels & Resorts. All rights reserved."
   }
 }

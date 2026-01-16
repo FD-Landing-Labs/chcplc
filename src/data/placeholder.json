@@ -4,13 +4,13 @@
     "tagline": "Luxury Hotel & Resort",
     "description": "Experience unparalleled luxury at Ceylon Hotels Corporation PLC - where timeless elegance meets modern sophistication. A 5-star sanctuary for discerning travelers.",
     "logo": {
-      "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=GRANDEUR",
-      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
+      "default": "https://placehold.co/140x50/1a1a1a/c9a962?text=CHCPLC",
+      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=CHCPLC",
       "alt": "Ceylon Hotels Corporation PLC Luxury Hotel Logo"
     },
     "seo": {
       "title": "Ceylon Hotels Corporation PLC - 5-Star Luxury Hotel & Resort",
-      "description": "Discover exceptional hospitality at Grandeur. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
+      "description": "Discover exceptional hospitality at Ceylon Hotels Corporation PLC. World-class amenities, exquisite dining, and breathtaking views await you at our prestigious 5-star hotel.",
       "keywords": [
         "luxury hotel",
         "5-star resort",
@@ -19,7 +19,7 @@
         "spa resort",
         "boutique hotel"
       ],
-      "ogImage": "https://placehold.co/1200x630/1a1a1a/c9a962?text=Grandeur+Hotel"
+      "ogImage": "https://placehold.co/1200x630/1a1a1a/c9a962?text=CHCPLC+Hotel"
     },
     "theme": {
       "primaryColor": "#c9a962",
@@ -29,11 +29,11 @@
     }
   },
   "navbar": {
-    "brandName": "Grandeur",
+    "brandName": "Ceylon Hotels Corporation PLC",
     "brandMark": "",
     "logo": {
       "default": "/assets/images/logo.png",
-      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=GRANDEUR",
+      "white": "https://placehold.co/140x50/ffffff/1a1a1a?text=CHCPLC",
       "alt": "Ceylon Hotels Corporation PLC Luxury Hotel Logo"
     },
     "barLinks": [
@@ -106,7 +106,7 @@
       "copyright": "2026 All rights reserved"
     },
     "contact": {
-      "email": "reservations@grandeur.com",
+      "email": "reservations@chcplc.com",
       "phone": "+1 (555) 789-0123"
     },
     "socialLinks": [
@@ -125,7 +125,7 @@
     ]
   },
   "hero": {
-    "brandName": "Grandeur",
+    "brandName": "Ceylon Hotels Corporation PLC",
     "description": "We help discerning travelers discover extraordinary stays with clarity—featuring curated accommodations and seamless luxury service.",
     "image": "/assets/images/hero.avif",
     "cta": {
@@ -469,11 +469,11 @@
       "headline": "Let's plan your perfect stay",
       "subtitle": "Ready to experience luxury? Our concierge team is here to help",
       "buttonLabel": "Get in touch",
-      "buttonHref": "mailto:reservations@grandeur.com",
+      "buttonHref": "mailto:reservations@chcplc.com",
       "backgroundImage": "/assets/images/footer.jpg"
     },
     "brand": {
-      "name": "Grandeur"
+      "name": "Ceylon Hotels Corporation PLC"
     },
     "navMenu": {
       "title": "Nav menu",
@@ -528,7 +528,7 @@
     "contact": {
       "title": "Contact",
       "phone": "+1 (555) 789-0123",
-      "email": "reservations@grandeur.com",
+      "email": "reservations@chcplc.com",
       "address": "123 Luxury Avenue, Manhattan, New York"
     },
     "newsletter": {
